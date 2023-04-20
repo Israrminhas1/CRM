@@ -68,7 +68,7 @@ password: admin123
 The Project succesfully use <a href="https://preview.themeforest.net/item/mooli-laravel-html-admin-dashboard-template/full_screen_preview/26800373?_ga=2.121220168.1923719563.1681929282-1550340208.1680948019">mooli</a> theme provided by themeforest.<br><br>
  <img align="center" height="400" width="700" src="public/dashboard.PNG"> <br>
 The Dark Green Color theme is customly added,
-You can switch between different theme colors by setting button on bottom right. <br><br>
+You can switch between different theme colors by setting button on bottom right and connected it with database so each user have their own saved theme settings (color, darkmode etc). <br><br>
 <img align="center" height="400" width="500" src="public/theme.PNG"> <br>
  <h2>Features</h2>
  <h3>User roles and access control</h3>
