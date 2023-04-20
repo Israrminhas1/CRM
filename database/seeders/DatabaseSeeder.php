@@ -24,6 +24,7 @@ class DatabaseSeeder extends Seeder
         $this->call(ThemeSettingSeeder::class);
         $this->call(UsersMenusTableSeeder::class);
         $this->call(UsersRolesTableSeeder::class);
+        $this->call(RolesMenusSeeder::class);
         $this->call(ActivityLogSeeder::class);
         $this->call(AllowanceTableSeeder::class);
         $this->call(AttendanceSeeder::class);

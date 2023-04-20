@@ -984,7 +984,7 @@ class EmployeesController extends Controller
 
     public function getGeneratePayslip(REQUEST $req)
     {
-        // $date = '2022-05';
+     
         $date = $req->year . '-' . $req->month;
 
         $employee_salary = DB::table('employee_salary as p')
@@ -1141,7 +1141,7 @@ class EmployeesController extends Controller
 
     public function getManualPayslip(REQUEST $req)
     {
-        // $date = '2022-05';
+       
         $date = $req->year . '-' . $req->month;
 
         $employee_salary = DB::table('employee_salary')

@@ -19,7 +19,7 @@ class AttendanceSeeder extends Seeder
             [
                 'employee_id' => 49,
                 'attendance_type' => 'Clock In',
-                'attendance_date' => '2023-04-20',
+                'attendance_date' => '2023-04-04',
                 'attendance_time' => '08:30',
                 'status' => 'pending',
                 'comment' => null,
@@ -32,7 +32,7 @@ class AttendanceSeeder extends Seeder
             [
                 'employee_id' => 49,
                 'attendance_type' => 'Clock Out',
-                'attendance_date' => '2023-04-20',
+                'attendance_date' => '2023-04-04',
                 'attendance_time' => '18:30',
                 'status' => 'pending',
                 'comment' => null,

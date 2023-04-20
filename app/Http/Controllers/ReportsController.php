@@ -200,9 +200,9 @@ class ReportsController extends Controller
                 ->toDateTimeString();
         } else {
             $from = '';
-            // $from = '2021-01-01 00:00:00';
+            
             $to = '';
-            // $to = '2022-12-01 23:59:59';
+            
         }
 
         $users = DB::table('users as u')
