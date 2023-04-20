@@ -69,7 +69,7 @@ The Project succesfully use <a href="https://preview.themeforest.net/item/mooli-
  <img align="center" height="400" width="700" src="public/dashboard.PNG"> <br>
 The Dark Green Color theme is customly added,
 You can switch between different theme colors by setting button on bottom right. <br><br>
-<img align="center" height="400" width="700" src="public/theme.PNG"> <br>
+<img align="center" height="400" width="500" src="public/theme.PNG"> <br>
  <h2>Features</h2>
  <h3>User roles and access control</h3>
 The User roles and access control in the CRM project offers complete control over the roles and access of users. With this feature, you can create new roles for your users and assign access to them as per your requirements. This ensures that each user has separate rights and access based on their role within the organization, which helps to maintain data security and confidentiality. With this level of control, you can ensure that only authorized personnel have access to sensitive information and functions.
