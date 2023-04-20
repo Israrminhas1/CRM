@@ -40,8 +40,8 @@ composer install
 ```
 
 4. Create the database `crm` 
-5. Create a file `.env` and add configuration:
-
+5. Create a file `.env` and add Database configuration: <br>
+<img align="center" height="300" width="700" src="public/env.PNG"> <br>
 6. Generate App Key
 
 ```
