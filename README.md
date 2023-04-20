@@ -65,18 +65,20 @@ php artisan serve
 email: admin@admin.com
 password: admin123
 <h2>Dashboard Theme</h2>
-The Project succesfully use <a href="https://preview.themeforest.net/item/mooli-laravel-html-admin-dashboard-template/full_screen_preview/26800373?_ga=2.121220168.1923719563.1681929282-1550340208.1680948019">mooli</a> theme provided by themeforest.
+The Project succesfully use <a href="https://preview.themeforest.net/item/mooli-laravel-html-admin-dashboard-template/full_screen_preview/26800373?_ga=2.121220168.1923719563.1681929282-1550340208.1680948019">mooli</a> theme provided by themeforest.<br><br>
  <img align="center" height="400" width="700" src="public/dashboard.PNG"> <br>
-The Dark Green Color theme is customly added
-you can switch between different theme colors by setting button on bottom right <br>
+The Dark Green Color theme is customly added,
+You can switch between different theme colors by setting button on bottom right. <br><br>
 <img align="center" height="400" width="700" src="public/theme.PNG"> <br>
  <h2>Features</h2>
  <h3>User roles and access control</h3>
-The User roles and access control in the CRM project offers complete control over the roles and access of users. With this feature, you can create new roles for your users and assign access to them as per your requirements. This ensures that each user has separate rights and access based on their role within the organization, which helps to maintain data security and confidentiality. With this level of control, you can ensure that only authorized personnel have access to sensitive information and functions.<br>
+The User roles and access control in the CRM project offers complete control over the roles and access of users. With this feature, you can create new roles for your users and assign access to them as per your requirements. This ensures that each user has separate rights and access based on their role within the organization, which helps to maintain data security and confidentiality. With this level of control, you can ensure that only authorized personnel have access to sensitive information and functions.
+<br><br>
 <img align="center" height="400" width="700" src="public/access.PNG"> <br>
 <h3>Activity Log</h3>
-The Activity Log feature of our project provides a comprehensive record of all user activities. This means that each time a user performs an action within the system, the details of the action, including the user responsible for it, are logged and stored in a secure database. With this feature, the admin can easily monitor all user activity and ensure that the system is being used in an appropriate and secure manner. Additionally, this feature provides valuable information for auditing purposes, which can be used to investigate any issues that may arise.<br>
+The Activity Log feature of our project provides a comprehensive record of all user activities. This means that each time a user performs an action within the system, the details of the action, including the user responsible for it, are logged and stored in a secure database. With this feature, the admin can easily monitor all user activity and ensure that the system is being used in an appropriate and secure manner. Additionally, this feature provides valuable information for auditing purposes, which can be used to investigate any issues that may arise.
+<br><br>
 <img align="center" height="400" width="700" src="public/activity.PNG"> <br>
 <h3>Reporting</h3>
-The Reports section of our project offers valuable insights into various aspects of the HR module. With the help of this section, users can easily analyze important information such as payroll payslip details, timesheet reports, attendance summaries, monthly attendance, and employee reports. Our project makes it easy for users to view and manage this information in an organized and user-friendly manner, helping them make informed decisions based on the data at hand. With our Reports section, users can gain a deeper understanding of their HR operations, identify areas of improvement, and optimize their payroll and attendance management processes.<br>
+The Reports section of our project offers valuable insights into various aspects of the HR module. With the help of this section, users can easily analyze important information such as payroll payslip details, timesheet reports, attendance summaries, monthly attendance, and employee reports. Our project makes it easy for users to view and manage this information in an organized and user-friendly manner, helping them make informed decisions based on the data at hand. With our Reports section, users can gain a deeper understanding of their HR operations, identify areas of improvement, and optimize their payroll and attendance management processes.<br><br>
 <img align="center" height="400" width="700" src="public/report.PNG"> <br>
