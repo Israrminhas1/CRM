@@ -1,3 +1,3 @@
 <p align="center">
-  <img align="center" height="200" src="{{ asset('/laravel-2.svg') }}">
+  <img align="center" height="200" src="public/laravel-2.svg">
 </p>
