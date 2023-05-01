@@ -1,5 +1,6 @@
 <p align="center">
-  <img align="center" height="200" src="public/laravel-2.svg">
+  <img align="center" height="200" src="public/assets/images/Maintenance-logo-icon-white.png">
+ <img align="center" height="200" src="public/assets/images/Maintenance-logo-text-white.png">
 </p>
 <h1>CRM</h1>
 The CRM is a comprehensive web-based project developed using Laravel that incorporates a wide range of functionalities related to the HR module. It facilitates the management of employee information, attendance records, leaves, and payroll processing. The project provides an easy-to-use interface for adding and managing employee details, capturing attendance information, and processing leaves. Additionally, it generates informative and visually appealing reports that help users gain insights into different aspects of HR management. The system's ability to present data in a meaningful way makes it an efficient tool for HR professionals looking to streamline their operations and make informed decisions.
