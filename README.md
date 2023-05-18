@@ -6,7 +6,7 @@
 The CRM is a comprehensive web-based project developed using Laravel that incorporates a wide range of functionalities related to the HR module. It facilitates the management of employee information, attendance records, leaves, and payroll processing. The project provides an easy-to-use interface for adding and managing employee details, capturing attendance information, and processing leaves. Additionally, it generates informative and visually appealing reports that help users gain insights into different aspects of HR management. The system's ability to present data in a meaningful way makes it an efficient tool for HR professionals looking to streamline their operations and make informed decisions.
 
 <h2>Requirements</h2>
-To install the Job Board API, you will need to have PHP version 8.0 or greater installed on your computer. You can check your current PHP version by running the following command in your terminal:
+To install the CRM, you will need to have PHP version 8.0 or greater installed on your computer. You can check your current PHP version by running the following command in your terminal:
 
 ```shell
 php -v
